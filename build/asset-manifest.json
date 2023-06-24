@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5a573c88.css",
+    "main.js": "/static/js/main.f679a63c.js",
+    "static/js/787.1d0e3c9c.chunk.js": "/static/js/787.1d0e3c9c.chunk.js",
+    "static/media/coasterphoto2.png": "/static/media/coasterphoto2.fc65aa0b6d3d11a233d0.png",
+    "static/media/castlephoto.png": "/static/media/castlephoto.bf6565d71838af6cc4b5.png",
+    "static/media/coasterphoto1.png": "/static/media/coasterphoto1.936eec598dcb295a6d13.png",
+    "static/media/logo.png": "/static/media/logo.2c4d7055d5f74a11fb88.png",
+    "index.html": "/index.html",
+    "main.5a573c88.css.map": "/static/css/main.5a573c88.css.map",
+    "main.f679a63c.js.map": "/static/js/main.f679a63c.js.map",
+    "787.1d0e3c9c.chunk.js.map": "/static/js/787.1d0e3c9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a573c88.css",
+    "static/js/main.f679a63c.js"
+  ]
+}
